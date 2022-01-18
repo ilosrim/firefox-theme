@@ -31,3 +31,5 @@ Some of the styles applied:
 * sidebar bgcolor matches with proton dark color
 * toolbar hamburger menu email separator- nightly gradient color applied
 * sidebar splitter border and nav-bar bottom border removed
+
+## Installation process: [in YouTube](https://youtu.be/mRhtjQz7gzc)
